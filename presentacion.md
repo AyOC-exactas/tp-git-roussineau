@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+¡Hola! Mi nombre es Santiago Roussineau.
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta hacer deporte, escuchar música y jugar a Twitter.
 
-Mi instrucción favorita del manual de intel es...
+**__Mi versión favorita de Windows es la 10.__**
