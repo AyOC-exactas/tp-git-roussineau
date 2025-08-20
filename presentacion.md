@@ -1,6 +1,8 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+¡Hola! Mi nombre es Santiago Roussineau.
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta hacer deporte, escuchar música y jugar a Twitter.
 
-Mi instrucción favorita del manual de intel es...
+![Escudo del club más grande del oeste](https://www.futbox.com/img/v1/e24/9b2/49d/080/678ce5d47eed43da8d90.png)
+
+**__Mi versión favorita de Windows es la 10.__**
